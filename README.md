@@ -41,6 +41,12 @@ The artifact does not include raw retinal images due to dataset licensing constr
 - Splits: Train / Validation / Test (70% / 15% / 15%)
 - Stratified sampling to preserve class imbalance
 
+The dataset is publicly available via Kaggle at:  
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k/data
+
+Raw retinal images are not redistributed in this repository due to dataset licensing constraints.  
+Only dataset splits and metadata required for reproducibility are provided.
+
 ---
 
 ## 4. Experimental Configuration
