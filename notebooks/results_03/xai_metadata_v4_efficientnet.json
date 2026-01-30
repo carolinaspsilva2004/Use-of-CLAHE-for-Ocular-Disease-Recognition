@@ -1,0 +1,480 @@
+[
+    {
+        "case_id": 1,
+        "image_id": "2678",
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_efficientnet_success_case1.png",
+        "ground_truth": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 1.0,
+            "D": 1.8607124729896896e-09,
+            "G": 1.8381031452463503e-07,
+            "C": 1.6037989825079535e-09,
+            "A": 1.3753814087635874e-08,
+            "H": 4.077831475268745e-11,
+            "M": 1.6813062941878343e-08,
+            "O": 5.696687921386001e-08
+        },
+        "gradcam_target_class": "N",
+        "gradcam_confidence": 1.0
+    },
+    {
+        "case_id": 2,
+        "image_id": "3424",
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_efficientnet_success_case2.png",
+        "ground_truth": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 1.0,
+            "D": 7.372606969369144e-09,
+            "G": 8.52887112046119e-08,
+            "C": 9.038058124133386e-08,
+            "A": 3.0317618637809574e-08,
+            "H": 2.239127923076012e-07,
+            "M": 4.567293672153028e-06,
+            "O": 6.373905989676132e-07
+        },
+        "gradcam_target_class": "N",
+        "gradcam_confidence": 1.0
+    },
+    {
+        "case_id": 3,
+        "image_id": "4367",
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_efficientnet_success_case3.png",
+        "ground_truth": {
+            "classes": [
+                "D"
+            ],
+            "binary": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "D"
+            ],
+            "binary": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 7.766477210680023e-06,
+            "D": 0.9999711513519287,
+            "G": 0.0003786739835049957,
+            "C": 0.00016241056437138468,
+            "A": 1.725651600281708e-06,
+            "H": 0.0012988595990464091,
+            "M": 8.947739843279123e-06,
+            "O": 3.6537305277306587e-05
+        },
+        "gradcam_target_class": "D",
+        "gradcam_confidence": 0.9999711513519287
+    },
+    {
+        "case_id": 4,
+        "image_id": "2811",
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_efficientnet_success_case4.png",
+        "ground_truth": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 0.9999947547912598,
+            "D": 1.610042090760544e-07,
+            "G": 4.822771302315232e-07,
+            "C": 2.6311433032333298e-08,
+            "A": 2.3497093934565783e-05,
+            "H": 9.258532429612387e-08,
+            "M": 1.663789589656517e-05,
+            "O": 8.19011802377645e-06
+        },
+        "gradcam_target_class": "N",
+        "gradcam_confidence": 0.9999947547912598
+    },
+    {
+        "case_id": 5,
+        "image_id": "2422",
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_efficientnet_success_case5.png",
+        "ground_truth": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 0.999998927116394,
+            "D": 7.847519611914322e-08,
+            "G": 1.2309851626923773e-06,
+            "C": 1.4252749679144472e-05,
+            "A": 6.119117642811034e-06,
+            "H": 1.1372723207614399e-07,
+            "M": 2.861679149646079e-06,
+            "O": 5.097077519167215e-06
+        },
+        "gradcam_target_class": "N",
+        "gradcam_confidence": 0.999998927116394
+    },
+    {
+        "case_id": 1,
+        "image_id": "1488",
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_efficientnet_failure_case1.png",
+        "ground_truth": {
+            "classes": [
+                "D",
+                "G"
+            ],
+            "binary": [
+                0.0,
+                1.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "D"
+            ],
+            "binary": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 3.656889020930976e-05,
+            "D": 0.6365636587142944,
+            "G": 0.12615437805652618,
+            "C": 0.0004690290370490402,
+            "A": 0.02802179753780365,
+            "H": 0.01087726280093193,
+            "M": 0.0007476690807379782,
+            "O": 0.0020612236112356186
+        },
+        "gradcam_target_class": "D",
+        "gradcam_confidence": 0.6365636587142944
+    },
+    {
+        "case_id": 2,
+        "image_id": "4576",
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_efficientnet_failure_case2.png",
+        "ground_truth": {
+            "classes": [
+                "D"
+            ],
+            "binary": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [],
+            "binary": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 0.010697041638195515,
+            "D": 0.0025063666980713606,
+            "G": 1.173410055343993e-05,
+            "C": 1.9693921160524042e-07,
+            "A": 1.5522847434112919e-06,
+            "H": 0.0010596273932605982,
+            "M": 5.780607352789957e-06,
+            "O": 0.0014206282794475555
+        },
+        "gradcam_target_class": "D",
+        "gradcam_confidence": 0.0025063666980713606
+    },
+    {
+        "case_id": 3,
+        "image_id": "2887",
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_efficientnet_failure_case3.png",
+        "ground_truth": {
+            "classes": [
+                "N"
+            ],
+            "binary": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "O"
+            ],
+            "binary": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "confidence_scores": {
+            "N": 1.4595844731957186e-05,
+            "D": 0.25088831782341003,
+            "G": 6.361102350638248e-06,
+            "C": 0.0005456163780763745,
+            "A": 0.0007131843594834208,
+            "H": 0.00036597237340174615,
+            "M": 6.86010434947093e-06,
+            "O": 0.9760160446166992
+        },
+        "gradcam_target_class": "N",
+        "gradcam_confidence": 1.4595844731957186e-05
+    },
+    {
+        "case_id": 4,
+        "image_id": "1652",
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_efficientnet_failure_case4.png",
+        "ground_truth": {
+            "classes": [
+                "M",
+                "O"
+            ],
+            "binary": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                1.0
+            ]
+        },
+        "prediction": {
+            "classes": [
+                "M"
+            ],
+            "binary": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 0.02979787066578865,
+            "D": 5.754974452543138e-08,
+            "G": 4.787468128597538e-07,
+            "C": 8.594404789619148e-06,
+            "A": 1.4159700185700785e-06,
+            "H": 4.267736130714184e-06,
+            "M": 0.9999935626983643,
+            "O": 0.00083929393440485
+        },
+        "gradcam_target_class": "M",
+        "gradcam_confidence": 0.9999935626983643
+    },
+    {
+        "case_id": 5,
+        "image_id": "4462",
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_efficientnet_failure_case5.png",
+        "ground_truth": {
+            "classes": [
+                "D"
+            ],
+            "binary": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "prediction": {
+            "classes": [],
+            "binary": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "confidence_scores": {
+            "N": 0.3308855891227722,
+            "D": 0.00039653683779761195,
+            "G": 5.149301614437718e-06,
+            "C": 0.0001239013217855245,
+            "A": 8.704938409209717e-06,
+            "H": 8.976617391454056e-05,
+            "M": 0.03658237308263779,
+            "O": 0.0030889296904206276
+        },
+        "gradcam_target_class": "D",
+        "gradcam_confidence": 0.00039653683779761195
+    }
+]
