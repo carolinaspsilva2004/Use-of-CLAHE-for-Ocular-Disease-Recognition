@@ -1,0 +1,87 @@
+[
+    {
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_best_SUCCESS_case0.png",
+        "ground_truth": [
+            "N"
+        ],
+        "model_prediction": [
+            "N"
+        ],
+        "confidence_scores": {
+            "N": 0.8279017806053162,
+            "D": 0.06443306803703308,
+            "G": 0.23608364164829254,
+            "C": 0.28870904445648193,
+            "A": 0.20118935406208038,
+            "H": 0.20542888343334198,
+            "M": 0.22434309124946594,
+            "O": 0.18490266799926758
+        },
+        "analyzed_class": "N"
+    },
+    {
+        "case_type": "SUCCESS",
+        "image_file": "xai_v4_best_SUCCESS_case1.png",
+        "ground_truth": [
+            "N"
+        ],
+        "model_prediction": [
+            "N"
+        ],
+        "confidence_scores": {
+            "N": 0.8572453856468201,
+            "D": 0.2626972496509552,
+            "G": 0.21817389130592346,
+            "C": 0.2178657352924347,
+            "A": 0.20743034780025482,
+            "H": 0.23997147381305695,
+            "M": 0.2225431501865387,
+            "O": 0.1515006572008133
+        },
+        "analyzed_class": "N"
+    },
+    {
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_best_FAILURE_case2.png",
+        "ground_truth": [
+            "D"
+        ],
+        "model_prediction": [
+            "N",
+            "D"
+        ],
+        "confidence_scores": {
+            "N": 0.738375186920166,
+            "D": 0.5069401860237122,
+            "G": 0.265762060880661,
+            "C": 0.25458115339279175,
+            "A": 0.23291254043579102,
+            "H": 0.2646016478538513,
+            "M": 0.21512636542320251,
+            "O": 0.15543346107006073
+        },
+        "analyzed_class": "D"
+    },
+    {
+        "case_type": "FAILURE",
+        "image_file": "xai_v4_best_FAILURE_case4.png",
+        "ground_truth": [
+            "N"
+        ],
+        "model_prediction": [
+            "D"
+        ],
+        "confidence_scores": {
+            "N": 0.3909239172935486,
+            "D": 0.6887979507446289,
+            "G": 0.18501286208629608,
+            "C": 0.15838311612606049,
+            "A": 0.18135805428028107,
+            "H": 0.17950542271137238,
+            "M": 0.20816442370414734,
+            "O": 0.17249776422977448
+        },
+        "analyzed_class": "N"
+    }
+]
